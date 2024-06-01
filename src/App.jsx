@@ -9,7 +9,7 @@ import Work from './components/Work'
 function App() {
   return (
     <>
-      <div className='bg-[#0a192f]'>
+      <div>
         <Navbar />
         <Home />
         <About />
