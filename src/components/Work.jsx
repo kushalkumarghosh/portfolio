@@ -21,10 +21,10 @@ const Work = () => {
                                 React JS Website
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://6654beeb9562770686a8695f--shimmering-profiterole-ce3e76.netlify.app/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/kushalkumarghosh/recipe-radar" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -38,10 +38,10 @@ const Work = () => {
                                 React JS Website
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href=" https://6657664ce7f8110d72ef4fcc--illustrious-hamster-e66259.netlify.app/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/kushalkumarghosh/blogsite?tab=readme-ov-file " target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
