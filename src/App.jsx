@@ -9,13 +9,15 @@ import Work from './components/Work'
 function App() {
   return (
     <>
-      <div>
+      <div className='bg-[#0a192f]'>
         <Navbar />
         <Home />
         <About />
         <Skills />
         <Work />
-        <Contact />
+        <div className='mt-44'>
+          <Contact />
+        </div>
       </div>
     </>
   )
