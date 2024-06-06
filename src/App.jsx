@@ -9,7 +9,7 @@ import Work from './components/Work'
 function App() {
   return (
     <>
-      <div className='bg-[#0a192f]'>
+      <div className='bg-custom-bg bg-noise-texture'>
         <Navbar />
         <Home />
         <About />
