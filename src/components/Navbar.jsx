@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-custom-bg bg-noise-texture text-gray-300'>
             <div>
                 {/* <img src={logo} alt="logo image" style={{ width: '100px' }} /> */}
-                <h2 className='text-3xl ml-5 text-[#87CEEB] font-bold'>Kushal</h2>
+                <h2 className='text-3xl ml-5 text-[#87CEEB] font-bold '>Kushal</h2>
 
             </div>
 
