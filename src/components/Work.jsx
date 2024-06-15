@@ -21,7 +21,7 @@ const Work = () => {
                                 React JS Website
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://6654beeb9562770686a8695f--shimmering-profiterole-ce3e76.netlify.app/" target="_blank">
+                                <a href="https://shimmering-profiterole-ce3e76.netlify.app/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href="https://github.com/kushalkumarghosh/recipe-radar" target="_blank">
