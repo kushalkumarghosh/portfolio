@@ -1,4 +1,3 @@
-import React from 'react';
 import workImg from '../assets/projects/RR.jpg'
 import workImg1 from '../assets/projects/Blog1.jpg'
 
