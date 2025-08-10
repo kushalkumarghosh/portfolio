@@ -1,2 +1,2 @@
 This is my portfolio website.
-Live link: https://kushalghosh.xyz/
+Live link: https://portfolio-delta-five-0jbk4wh8vm.vercel.app/
