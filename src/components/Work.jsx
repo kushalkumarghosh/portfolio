@@ -88,7 +88,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://eatery-cafe-chi.vercel.app/"
+                  href="https://eatery-cafe-rms.vercel.app/"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -96,7 +96,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/kushalkumarghosh/eatery-cafe"
+                  href="https://github.com/kushalkumarghosh/eatery-cafe-rms"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
