@@ -1,5 +1,5 @@
 import workImg from "../assets/projects/eatery-cafe.png";
-import workImg1 from "../assets/projects/Blog1.jpg";
+import workImg1 from "../assets/projects/Blog1.png";
 import workImg2 from "../assets/projects/RR.png";
 import workImg3 from "../assets/projects/envo.png";
 import workImg4 from "../assets/projects/portfolio.png";
@@ -55,11 +55,11 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Website
+                MERN Website
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://illustrious-hamster-e66259.netlify.app/"
+                  href="https://digital-talk.vercel.app/"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -67,7 +67,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/kushalkumarghosh/blogsite?tab=readme-ov-file "
+                  href="https://github.com/kushalkumarghosh/digital-talk"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
