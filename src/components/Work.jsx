@@ -3,6 +3,7 @@ import workImg1 from "../assets/projects/Blog1.png";
 import workImg2 from "../assets/projects/RR.png";
 import workImg3 from "../assets/projects/envo.png";
 import workImg4 from "../assets/projects/portfolio.png";
+import workImg5 from "../assets/projects/RM.png";
 
 const Work = () => {
   return (
@@ -155,6 +156,35 @@ const Work = () => {
                 </a>
                 <a
                   href="https://github.com/kushalkumarghosh/portfolio"
+                  target="_blank"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${workImg5})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Laravel Website
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://github.com/kushalkumarghosh/restaurant-management-system/"
+                  target="_blank"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href=""
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
