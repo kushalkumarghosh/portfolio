@@ -1,7 +1,7 @@
 import workImg from "../assets/projects/eatery-cafe.png";
 import workImg1 from "../assets/projects/Blog1.png";
-import workImg2 from "../assets/projects/RR.png";
-import workImg3 from "../assets/projects/envo.png";
+import workImg2 from "../assets/projects/nexagents.png";
+import workImg3 from "../assets/projects/sms.png";
 import workImg4 from "../assets/projects/portfolio.png";
 import workImg5 from "../assets/projects/RM.png";
 
@@ -89,16 +89,16 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://shimmering-profiterole-ce3e76.netlify.app/"
-                  target="_blank"
+                  // href="https://shimmering-profiterole-ce3e76.netlify.app/"
+                  // target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/kushalkumarghosh/recipe-radar"
-                  target="_blank"
+                  // href="https://github.com/kushalkumarghosh/recipe-radar"
+                  // target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
@@ -118,16 +118,16 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://envobyte-delta.vercel.app/"
-                  target="_blank"
+                  // href="https://envobyte-delta.vercel.app/"
+                  // target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/kushalkumarghosh/envobyte"
-                  target="_blank"
+                  // href="https://github.com/kushalkumarghosh/envobyte"
+                  // target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
