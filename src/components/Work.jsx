@@ -85,7 +85,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Website
+                Next.js SaaS Application
               </span>
               <div className="pt-8 text-center">
                 <a
@@ -114,7 +114,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React.js Website
+                Laravel SaaS Website
               </span>
               <div className="pt-8 text-center">
                 <a
